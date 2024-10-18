@@ -1,13 +1,13 @@
 //
-//  FetchIOSUITestsLaunchTests.swift
-//  FetchIOSUITests
+//  FetchHiringAppUITestsLaunchTests.swift
+//  FetchHiringAppUITests
 //
-//  Created by Tarun Vedula on 10/17/24.
+//  Created by Tarun Vedula on 10/13/24.
 //
 
 import XCTest
 
-final class FetchIOSUITestsLaunchTests: XCTestCase {
+final class FetchHiringAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
